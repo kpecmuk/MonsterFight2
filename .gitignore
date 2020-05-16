@@ -1,0 +1,11 @@
+.idea/
+target/
+test/
+.gradle/
+gradle/
+build/
+
+*.iml
+*.war
+*.ear
+*.jar
